@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Reencuadrar</string>
+    <string name="title_activity_maps">Reencuadrar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_principal">Reencuadrar</string>
+    <string name="title_activity_lugar">Reencuadrar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="anyadirNombre">Escribe aquí tu nombre</string>
+    <string name="anyadirEdad">Escribe aquí tu edad</string>
+    <string name="edad">Edad:</string>
+    <string name="chico">Chico</string>
+    <string name="chica">Chica</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="personalizar">Personalizar</string>
+    <string name="anyadirSitio">Añadir Establecimiento</string>
+    <string name="favoritosOption">Sitios Favoritos</string>
+    <string name="mapaBBDD">Ir al Mapa</string>
+    <string name="llevame">Ir Andando</string>
+    <string name="llevameBus">Ir en Autobus</string>
+    <string name="sitiosCercanosOption">Ir a Sitios Cercanos</string>
+    <string name="refrescar">Refrescar</string>
+    <string name="nombreEst">Nombre:</string>
+    <string name="direccionEst">Dirección:</string>
+    <string name="hintdireccion">Introduce dirección</string>
+    <string name="categoriaEst">Categoría:</string>
+    <string name="descripcionEst">Descripción</string>
+    <string name="nombEstHint">Introduce Nombre Establecimiento</string>
+    <string name="descEstHint">Introduce Descripción Establecimiento</string>
+    <string name="zona">Zona:</string>
+    <string name="borrarSitio">Borrar Establecimiento</string>
+    <string-array name="zonas">
+        <item>TUBO-CASCO</item>
+        <item>UNIVERSIDAD</item>
+        <item>MURALLAS</item>
+        <item>LEON XIII</item>
+    </string-array>
+    <string-array name="categorias">
+        <item>CAFETERIA</item>
+        <item>TAPAS</item>
+        <item>HELADERIA</item>
+        <item>DISCOTECA</item>
+    </string-array>
+    <string name="Personalizacion">PERSONALIZACION</string>
+    <string name="takeme">Llevame</string>
+    <string name="CambiarCuenta">Cambiar cuenta</string>
+</resources>

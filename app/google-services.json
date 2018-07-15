@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "788569866854",
+    "firebase_url": "https://reencuadrar-fc133.firebaseio.com",
+    "project_id": "reencuadrar-fc133",
+    "storage_bucket": "reencuadrar-fc133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788569866854:android:c485db7cbdcaf393",
+        "android_client_info": {
+          "package_name": "com.example.sergio.reencuadrar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788569866854-6br25fqf8o8o21g9ujc36cu022bi0vee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sergio.reencuadrar",
+            "certificate_hash": "9ee7e2ad3ba9cf4b581e53f59abf5d0a9df85878"
+          }
+        },
+        {
+          "client_id": "788569866854-hj16eptiis8dbumbc6ug5istjajucaga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHzVZ7O8NAc3rgFDZmqYdheqJFLC6TTY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788569866854-hj16eptiis8dbumbc6ug5istjajucaga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
